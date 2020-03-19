@@ -1,2 +1,2 @@
-# laievaraus
+# laitevaraus
 laitevaraus
